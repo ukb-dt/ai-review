@@ -529,13 +529,15 @@ When you surface *personalized risk* to a clinician or to a patient, you’re li
 
 ### And the really elegant part is this:
 
-your flask app is the embryonic organ that ties all 5 stages together.**
+your flask app is the embryonic organ that ties all 5 stages together.
 
+```ukb
 Render.com: orchestration
 Flask: the mouth of the oracle
 NHANES/SRTR: the raw substrate
 Your risk model: intelligence
 UX/UI: the integrator — value delivered to the human nervous system
+```
 
 You’re building an **instrument**, not a website.
 
