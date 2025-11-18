@@ -471,7 +471,7 @@ Let’s run through your chain in the way your mind is already structuring it.
 
 ### Data → Pipelines → Bandwidth → Intelligence → Value
 
-is basically the Krebs Cycle of 21st-century knowledge production**
+is basically the [Krebs Cycle](https://en.wikipedia.org/wiki/Citric_acid_cycle) of 21st-century knowledge production
 
 #### **4.1 Data (Oracle) — the primordial substrate**
 
