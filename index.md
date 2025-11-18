@@ -1042,7 +1042,7 @@ Keep together:
 > *Chaos, Apollo & Dionysus, Zeus, Athena, Mnemosyne*           
 > -- Pentad, Deified
 
-Separate cleanly:
+Separate [cleanly](https://ukb-dt.github.io/esq-phd-llc/):
 - Personal cosmology (Kisoro-Kampala reflections) → memoir/blog $ESQ, C_x, Mnemosyne$
 - Theoretical framework (pentad + calculus) → paper/documentation $PhD, \int E_x dt, Apollo$
 - Production system (NHANES/SRTR risk engine) → codebase with explicit assumptions $LLC, \epsilon_x t, Dionysus$
