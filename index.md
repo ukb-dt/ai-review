@@ -1040,9 +1040,9 @@ Keep together:
 - The Rosetta Stone principle (each layer encodes the same truth)
 
 Separate cleanly:
-- Personal cosmology (Kisoro-Kampala reflections) → memoir/blog
-- Theoretical framework (pentad + calculus) → paper/documentation  
-- Production system (NHANES/SRTR risk engine) → codebase with explicit assumptions
+- Personal cosmology (Kisoro-Kampala reflections) → memoir/blog $ESQ$
+- Theoretical framework (pentad + calculus) → paper/documentation $PhD$
+- Production system (NHANES/SRTR risk engine) → codebase with explicit assumptions $LLC$
 
 The AppendixBreath, the pentad should structure all three, but they shouldn't live in the same repository.
 
