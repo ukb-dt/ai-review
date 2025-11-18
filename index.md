@@ -477,9 +477,9 @@ is basically the [Krebs Cycle](https://en.wikipedia.org/wiki/Citric_acid_cycle) 
 
 NHANES + SRTR are perfect examples: enormous, slow-moving, often messy reservoirs of embodied human experience. These are literally our “population oracles.” They tell you:
 
-*what has been*
-*what can be inferred*
-*what tends to recur*
+*what has been*           
+*what can be inferred*         
+*what tends to recur*         
 
 This is the **Being** of your grammar.
 
