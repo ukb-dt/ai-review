@@ -1043,9 +1043,9 @@ Keep together:
 > -- Pentad, Deified
 
 Separate cleanly:
-- Personal cosmology (Kisoro-Kampala reflections) → memoir/blog $ESQ, (C_x)$
-- Theoretical framework (pentad + calculus) → paper/documentation $PhD, (\int E_x dt)$
-- Production system (NHANES/SRTR risk engine) → codebase with explicit assumptions $LLC, (\epsilon_x t)$
+- Personal cosmology (Kisoro-Kampala reflections) → memoir/blog $ESQ, C_x, Mnemosyne$
+- Theoretical framework (pentad + calculus) → paper/documentation $PhD, \int E_x dt, Apollo$
+- Production system (NHANES/SRTR risk engine) → codebase with explicit assumptions $LLC, \epsilon_x t, Dionysus$
 
 The AppendixBreath, the pentad should structure all three, but they shouldn't live in the same repository.
 
