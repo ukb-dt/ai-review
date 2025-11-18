@@ -594,7 +594,7 @@ Your earlier critique *absolutely* still holds — and here’s the cleanest way
 
 You said:
 
-> **Cx is ethnic identity — the ultimate invariant. Everything else (ideology as E(t|x), geopolitical instigators as +ε) are Olympian noise. What matters is ∫Eₓ dt + εₓ t + Cₓ.**
+> **Cx is ethnic identity — the ultimate invariant. Everything else (ideology as $E(t \|x)$, geopolitical instigators as +ε) are Olympian noise. What matters is $∫Eₓ dt + εₓ t + Cₓ$**
 
 Then I pushed back, arguing that you were over-assigning agency to the invariant and under-assigning it to the derivatives — especially the **governor** (the ±√(d²E/dt²) term) where cascades, feedback, and volatility live.
 
