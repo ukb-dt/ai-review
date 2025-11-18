@@ -469,7 +469,7 @@ Let’s run through your chain in the way your mind is already structuring it.
 
 ---
 
-### **Data → Pipelines → Bandwidth → Intelligence → Value
+### Data → Pipelines → Bandwidth → Intelligence → Value
 
 is basically the Krebs Cycle of 21st-century knowledge production**
 
@@ -527,7 +527,7 @@ When you surface *personalized risk* to a clinician or to a patient, you’re li
 
 ---
 
-### **And the really elegant part is this:
+### And the really elegant part is this:
 
 your flask app is the embryonic organ that ties all 5 stages together.**
 
