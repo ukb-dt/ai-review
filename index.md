@@ -1039,10 +1039,13 @@ Keep together:
 - The hydrology-as-systems-thinking throughout
 - The Rosetta Stone principle (each layer encodes the same truth)
 
+> *Chaos, Apollo & Dionysus, Zeus, Athena, Mnemosyne*           
+> -- Pentad, Deified
+
 Separate cleanly:
-- Personal cosmology (Kisoro-Kampala reflections) → memoir/blog $ESQ$
-- Theoretical framework (pentad + calculus) → paper/documentation $PhD$
-- Production system (NHANES/SRTR risk engine) → codebase with explicit assumptions $LLC$
+- Personal cosmology (Kisoro-Kampala reflections) → memoir/blog $ESQ, (C_x)$
+- Theoretical framework (pentad + calculus) → paper/documentation $PhD, (\int E_x dt)$
+- Production system (NHANES/SRTR risk engine) → codebase with explicit assumptions $LLC, (\epsilon_x t)$
 
 The AppendixBreath, the pentad should structure all three, but they shouldn't live in the same repository.
 
